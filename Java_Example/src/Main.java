@@ -18,7 +18,7 @@ public class Main {
         while(keys.hasNext()){
             String key = (String)keys.next();
             if("2".equals(key)){
-                System.out.println("存在key");
+                System.out.println("存在keys");
             }
         }
 
