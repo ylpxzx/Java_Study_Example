@@ -6,7 +6,7 @@
 *.lo
 *.o
 *.obj
-.idea/
+*.idea/
 # Precompiled Headers
 *.gch
 *.pch
@@ -28,5 +28,4 @@
 
 # Executables
 *.exe
-*.out
 *.app

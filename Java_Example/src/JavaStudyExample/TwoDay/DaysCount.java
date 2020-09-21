@@ -26,7 +26,6 @@ public class DaysCount {
         int count = 0;
         boolean index;
         int days = 0;
-
         if ((year < 0) || (month < 0) || (month > 12) || (day < 0) || (day > 31)){
             index = false;
             System.out.println("输入有误，重新输入。");
