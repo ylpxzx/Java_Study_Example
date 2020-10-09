@@ -3,7 +3,7 @@ package JavaStudyExample.FiveDay;
 import java.util.Scanner;
 
 public class Example0 {
-//    古典问题：有一对兔子，从出生后第3个月起每个月都生一对兔子
+//TODO    古典问题：有一对兔子，从出生后第3个月起每个月都生一对兔子
     public static void main(String[] args) {
         System.out.println("请输入月份");
         Scanner scanner = new Scanner(System.in);

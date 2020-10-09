@@ -1,6 +1,7 @@
 package JavaStudyExample.FiveDay;
 
 public class Example1 {
+    // TODO 静态方法调用
     public static void main(String[] args) {
         Example1 test = new Example1();
         int sum = 0;

@@ -1,7 +1,7 @@
 package JavaStudyExample.FiveDay;
 
 public class Example2 {
-    // 打印出所有的"水仙花数"，所谓"水仙花数"是指一个三位数，其各位数字立方和等于该数本身。
+    //TODO 打印出所有的"水仙花数"，所谓"水仙花数"是指一个三位数，其各位数字立方和等于该数本身。
     public static void main(String[] args) {
         int sum = 0;
         for (int i = 100; i <= 999; i++){
